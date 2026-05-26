@@ -203,27 +203,22 @@ publications:
   papers:
     - title: Playwright Automation Framework Development
       link: "#"
-      authors: Pankaj Phalke
       conference: "Developed scalable UI automation framework using Playwright with JavaScript and Page Object Model."
 
     - title: Regression Automation Optimization
       link: "#"
-      authors: Pankaj Phalke
       conference: "Reduced manual regression effort by 40% through automation implementation in Agile delivery environment."
 
     - title: Enterprise Application Testing
       link: "#"
-      authors: Pankaj Phalke
       conference: "Successfully tested Banking, ERP, HRMS, Warehouse, and Industrial Automation applications."
 
     - title: API & Database Validation
       link: "#"
-      authors: Pankaj Phalke
       conference: "Performed API testing using Postman/SoapUI and backend SQL validation for enterprise systems."
 
     - title: Agile Scrum & Production Support
       link: "#"
-      authors: Pankaj Phalke
       conference: "Contributed to Agile Scrum ceremonies, defect management, UAT support, and production release validation."
 
 recommendations:
