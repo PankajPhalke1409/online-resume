@@ -52,14 +52,11 @@ sidebar:
     - item: Climbing
       link:
 
-
     - item: Cricket
       link:
 
-
     - item: Cooking
       link:
-
 
 career-profile:
   title: Career Profile
@@ -86,8 +83,7 @@ experiences:
     time: Nov 2021 – Jul 2025
     company: Tata Consultancy Services (TCS), Pune
     details: |
-      Worked for Credit Suisse AG (UBS Group) on Banking and Risk Analytics applications.
-        
+      Worked for Credit Suisse AG (UBS Group) on Banking and Risk Analytics applications.      
         - Designed and executed manual and automated test cases for data-intensive applications.
         - Automated 200+ regression scenarios using Playwright with JavaScript.
         - Performed API testing using SoapUI/Postman and backend validation using SQL queries.
@@ -100,7 +96,6 @@ experiences:
     company: Redivivus Technologies Pvt. Ltd., Pune
     details: |
       Worked on ERP, Pharma, Warehouse, HRMS, and Industrial Automation applications.
-        
         - Executed end-to-end STLC activities including Functional, Integration, and Regression testing.
         - Performed database testing using SQL Server for data validation and integrity checks.
         - Worked on industrial automation systems integrated with PLCs, printers, and cameras.
@@ -144,9 +139,8 @@ projects:
   title: Projects
   intro: >
     Below are some of the major projects delivered across Banking, Risk Analytics, ERP, Warehouse Management, and Industrial Automation domains using Manual Testing, Playwright Automation, API Testing, and SQL validation.
-
   assignments:
-
+  
     - title: RDS (Risk Data Store)
       link: "#"
       tagline: "Banking and Risk Analytics application developed for Credit Suisse AG. Worked on manual testing, Playwright automation, API validation, SQL testing, and end-to-end risk data validation."
@@ -181,7 +175,6 @@ oss:
     Experienced in contributing to enterprise-level Banking, Risk Analytics, ERP, Warehouse Management, and Industrial Automation applications through quality assurance, automation testing, and production support activities.
 
   contributions:
-
     - title: Playwright Automation Framework
       link: "#"
       tagline: "Developed and maintained Playwright automation framework using JavaScript, Page Object Model (POM), and reusable utilities for regression testing and cross-browser execution."
@@ -246,7 +239,7 @@ recommendations:
       phone: "+91-9096003165"
       role: Senior QA Automation Engineer
       recommendation: |
-        Professional references and managerial recommendations can be provided upon request during the interview process.
+      Professional references and managerial recommendations can be provided upon request during the interview process.
 
 kills:
   title: Skills & Proficiency
