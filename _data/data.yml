@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Pankaj Phalke
+  tagline: Senior QA Engineer
+  avatar: pankaj-profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: pankajphalke09@outlook.com
+  phone: +91 9096003165
+  timezone: Asia/Kolkata # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Indian
+  website: https://pankajphalke1409.github.io/online-resume/ # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/pankaj-phalke-a343b5115
+  xing:
+  github: PankajPhalke1409
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -53,7 +53,7 @@ sidebar:
       link:
 
 
-    - item: Snowboarding
+    - item: Cricket
       link:
 
 
@@ -64,65 +64,49 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Senior QA Engineer with 7.5+ years of experience in Manual and Automation Testing across Banking, Risk Analytics, ERP, and Enterprise applications. 
+    Strong expertise in Playwright with JavaScript for UI automation, framework development, regression testing, and cross-browser testing. 
+    Experienced in API Testing, SQL validation, CI/CD integration, Agile Scrum methodologies, and end-to-end software testing lifecycle. 
+    Skilled in identifying critical defects, improving software quality, and delivering stable production releases in fast-paced Agile environments. 
+    Proven ability to collaborate with cross-functional teams and deliver high-quality software solutions through strong analytical and problem-solving skills.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BE(IT)
+    university: Shivaji University, Kolhapur, Maharashtra
+    time: 2014
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Completed Bachelor of Engineering in Information Technology with strong fundamentals in software development, database management, and web technologies.
+      Gained practical exposure to software testing, application development, and system architecture during academic projects.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior QA Engineer
+    time: Nov 2021 – Jul 2025
+    company: Tata Consultancy Services (TCS), Pune
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Worked for Credit Suisse AG (UBS Group) on Banking and Risk Analytics applications.
+        
+        - Designed and executed manual and automated test cases for data-intensive applications.
+        - Automated 200+ regression scenarios using Playwright with JavaScript.
+        - Performed API testing using SoapUI/Postman and backend validation using SQL queries.
+        - Validated end-to-end data pipelines across upstream and downstream systems.
+        - Reduced regression testing effort by 40% through automation.
+        - Identified critical defects and improved release quality in Agile Scrum environment.
+        - Collaborated with developers, business analysts, and stakeholders during sprint cycles.
+  - role: Software Test & Support Engineer
+    time: Dec 2017 – Oct 2021
+    company: Redivivus Technologies Pvt. Ltd., Pune
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Worked on ERP, Pharma, Warehouse, HRMS, and Industrial Automation applications.
+        
+        - Executed end-to-end STLC activities including Functional, Integration, and Regression testing.
+        - Performed database testing using SQL Server for data validation and integrity checks.
+        - Worked on industrial automation systems integrated with PLCs, printers, and cameras.
+        - Managed defect tracking using Jira and Bugzilla.
+        - Supported production deployments and client issue resolution activities.
+        - Improved defect leakage by 30% through effective testing strategies.
         - Bullet point
         - Bullet point
   - role: UI Developer
