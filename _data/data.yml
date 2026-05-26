@@ -249,10 +249,9 @@ recommendations:
         Professional references and managerial recommendations can be provided upon request during the interview process.
 
 kills:
-  title: Skills &amp; Proficiency
+  title: Skills & Proficiency
 
   toolset:
-
     - name: Playwright Automation (JavaScript)
       level: 95%
 
