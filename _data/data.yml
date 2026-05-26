@@ -38,13 +38,13 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Hindi
+      level: Professional
+
+    - idiom: Marathi
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
@@ -102,8 +102,6 @@ experiences:
         - Managed defect tracking using Jira and Bugzilla.
         - Supported production deployments and client issue resolution activities.
         - Improved defect leakage by 30% through effective testing strategies.
-        - Bullet point
-        - Bullet point
   - role: Web Developer
     time: Jun 2015 – Dec 2015
     company: Supernova Systems, Satara
@@ -111,8 +109,6 @@ experiences:
       - Developed CMS-based web applications using HTML, CSS, Bootstrap, and MySQL.
       - Worked on frontend UI development and database integration.
       - Gained practical experience in web application architecture and development lifecycle.
-      - Bullet point
-      - Bullet point
 
 certifications:
   title: Certifications
@@ -241,7 +237,7 @@ recommendations:
       recommendation: |
       Professional references and managerial recommendations can be provided upon request during the interview process.
 
-kills:
+Skills:
   title: Skills & Proficiency
 
   toolset:
