@@ -143,106 +143,151 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Below are some of the major projects delivered across Banking, Risk Analytics, ERP, Warehouse Management, and Industrial Automation domains using Manual Testing, Playwright Automation, API Testing, and SQL validation.
+
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: RDS (Risk Data Store)
+      link: "#"
+      tagline: "Banking and Risk Analytics application developed for Credit Suisse AG. Worked on manual testing, Playwright automation, API validation, SQL testing, and end-to-end risk data validation."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: MYRIAD (Manage Your Risk Intelligently And Dynamically)
+      link: "#"
+      tagline: "Enterprise risk management platform used for processing Trade, Risk, and Surface data across downstream systems. Performed functional, integration, API, and database testing."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: HRMS
+      link: "#"
+      tagline: "Web-based Human Resource Management System handling employee management, payroll, attendance, leave, recruitment, and performance tracking."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: rTracker
+      link: "#"
+      tagline: "Pharma Track & Trace system for supply chain tracking, government reporting, product verification, and data management for Alkem Laboratories."
+
+    - title: REOSYS - Total ERP
+      link: "#"
+      tagline: "Windows-based ERP application used for billing, inventory management, quotation handling, invoicing, stock management, and manufacturing workflows."
+
+    - title: wimaRts
+      link: "#"
+      tagline: "Warehouse Item Management and Real-Time Tracking System integrated with industrial cameras, PLCs, and printers for automation and vision inspection."
+
+    - title: iPRINT
+      link: "#"
+      tagline: "Industrial automation and vision inspection system used to automate production stages and generate real-time MIS reports using smart cameras and industrial devices."
 
 oss:
-  title: OSS Contributions
+  title: Professional Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Experienced in contributing to enterprise-level Banking, Risk Analytics, ERP, Warehouse Management, and Industrial Automation applications through quality assurance, automation testing, and production support activities.
+
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Playwright Automation Framework
+      link: "#"
+      tagline: "Developed and maintained Playwright automation framework using JavaScript, Page Object Model (POM), and reusable utilities for regression testing and cross-browser execution."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: CI/CD Test Integration
+      link: "#"
+      tagline: "Contributed to automation execution through Jenkins-based CI/CD integration for continuous testing and faster release validation."
+
+    - title: API & Database Validation
+      link: "#"
+      tagline: "Performed API testing using Postman and SoapUI along with backend SQL validation to ensure data accuracy across enterprise applications."
+
+    - title: Agile QA Process Improvement
+      link: "#"
+      tagline: "Actively contributed to Agile Scrum activities including sprint planning, defect triaging, test strategy discussions, and release quality improvements."
+
+    - title: Production Support & Defect Analysis
+      link: "#"
+      tagline: "Supported production validation, root cause analysis, and defect leakage reduction activities for enterprise and banking applications."
+
+    - title: Industrial Automation Testing
+      link: "#"
+      tagline: "Worked on industrial automation systems integrated with PLCs, smart cameras, printers, and warehouse tracking applications."
 
 publications:
-  title: Publications
+  title: Achievements
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Key professional achievements and contributions delivered across Banking, ERP, Risk Analytics, and Automation Testing domains.
+
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    - title: Playwright Automation Framework Development
+      link: "#"
+      authors: Pankaj Phalke
+      conference: "Developed scalable UI automation framework using Playwright with JavaScript and Page Object Model."
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - title: Regression Automation Optimization
+      link: "#"
+      authors: Pankaj Phalke
+      conference: "Reduced manual regression effort by 40% through automation implementation in Agile delivery environment."
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Enterprise Application Testing
+      link: "#"
+      authors: Pankaj Phalke
+      conference: "Successfully tested Banking, ERP, HRMS, Warehouse, and Industrial Automation applications."
+
+    - title: API & Database Validation
+      link: "#"
+      authors: Pankaj Phalke
+      conference: "Performed API testing using Postman/SoapUI and backend SQL validation for enterprise systems."
+
+    - title: Agile Scrum & Production Support
+      link: "#"
+      authors: Pankaj Phalke
+      conference: "Contributed to Agile Scrum ceremonies, defect management, UAT support, and production release validation."
 
 recommendations:
-  title: Recommendations
+  title: Professional References
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
 
-      He is a great employee!
+    - person: Available Upon Request
+      email: pankajphalke09@outlook.com
+      phone: "+91-9096003165"
+      role: Senior QA Automation Engineer
+      recommendation: |
+        Professional references and managerial recommendations can be provided upon request during the interview process.
 
-skills:
+kills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+    - name: Playwright Automation (JavaScript)
+      level: 95%
 
-  - name: Angular
-    level: 98%
+    - name: Manual Testing
+      level: 95%
 
-  - name: HTML5 & CSS
-    level: 95%
+    - name: API Testing (Postman & SoapUI)
+      level: 90%
 
-  - name: Ruby on Rails
-    level: 85%
+    - name: SQL & Database Testing
+      level: 90%
 
-  - name: Sketch & Photoshop
-    level: 60%
+    - name: Regression & Functional Testing
+      level: 92%
+
+    - name: Agile Scrum & STLC
+      level: 90%
+
+    - name: Jenkins & CI/CD
+      level: 85%
+
+    - name: Git & GitHub
+      level: 85%
+
+    - name: JavaScript
+      level: 80%
+
+    - name: Cross-Browser Automation Testing
+      level: 90%
+
+    - name: Jira & HP ALM
+      level: 88%
+
+    - name: Automation Framework Development
+      level: 88%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  © 2026 Pankaj Phalke | Software Test Engineer | Playwright Automation Specialist
