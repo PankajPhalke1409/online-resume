@@ -225,7 +225,7 @@ recommendations:
   title: Professional References
   list:
 
-      name: Pankaj Phalke
+    - name: Pankaj Phalke
       email: pankajphalke09@outlook.com
       phone: +91-9096003165
       role: Senior QA Automation Engineer
